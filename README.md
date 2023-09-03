@@ -2,7 +2,7 @@
 
 # yew-hcaptcha
 
-[![crates.io](https://img.shields.io/crates/v/yew-hcaptcha.svg)](https://crates.io/crates/yew-recaptcha-v3)
+[![crates.io](https://img.shields.io/crates/v/yew-hcaptcha.svg)](https://crates.io/crates/yew-hcaptcha)
 [![docs.rs](https://docs.rs/yew-hcaptcha/badge.svg)](https://docs.rs/yew-hcaptcha)
 
 This component helps you to integrate an hcaptcha in your app
