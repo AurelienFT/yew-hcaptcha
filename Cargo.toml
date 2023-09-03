@@ -1,0 +1,15 @@
+[package]
+name = "yew-hcaptcha"
+version = "0.1.0"
+edition = "2021"
+authors = ["Aurélien FOUCAULT <aurelien.foucault@epitech.eu>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wasm-bindgen = "0.2.87"
+web-sys = "0.3.64"
+js-sys = "0.3.64"
+yew = { version = "0.20.0", features = ["csr"] }
+log = "0.4"
+gloo-utils = "0.1.5"
